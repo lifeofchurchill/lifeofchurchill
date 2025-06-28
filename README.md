@@ -45,4 +45,4 @@ Currently exploring: Docker, Django security practices
 📧 Reach out via email: churchillmorgate@outlook.com
 🔗 LinkedIn — Let’s connect! (www.linkedin.com/in/hoyah-evans-worlanyo-churchill-66824b227)
 
-🧠 "Code is craft. Curiosity is fuel. Growth is the goal.
+🧠 Code is craft. Curiosity is fuel. Growth is the goal.
