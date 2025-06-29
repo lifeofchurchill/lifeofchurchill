@@ -42,18 +42,12 @@ Currently exploring: Docker, Django security practices
 
 
 ---
+---
 
 ### 📬 Contact Me
 
-<p align="left">
-  <a href="mailto:reghoyah@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/codewithchurchill/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:churchillmorgate@outlook.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithchurchill/)
 
 ---
 
