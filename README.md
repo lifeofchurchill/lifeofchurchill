@@ -33,7 +33,7 @@ I’m actively building my foundation in:
 
 ### 🛠️ Technologies & Tools
 
-```html
+html
 Languages: Python, HTML, CSS, JavaScript  
 Backend: Django, REST APIs, SQLite, PostgreSQL  
 Version Control: Git, GitHub  
