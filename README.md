@@ -41,8 +41,18 @@ Tools: CLI, VS Code, Postman
 Currently exploring: Docker, Django security practices
 
 
-📬 Contact Me
-📧 Reach out via email: churchillmorgate@outlook.com
-🔗 LinkedIn — Let’s connect! (www.linkedin.com/in/hoyah-evans-worlanyo-churchill-66824b227)
+---
 
-🧠 Code is craft. Curiosity is fuel. Growth is the goal.
+### 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:churchill.yourname@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/codewithchurchill/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+---
+
