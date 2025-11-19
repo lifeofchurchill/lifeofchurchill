@@ -23,38 +23,42 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 
 📚 Always learning: system design basics, Django best practices & DevOps fundamentals
 
+---
 
 ### 🛠️ Technologies & Tools
 
 Languages
 
-Python, JavaScript, HTML, CSS
+  Python, JavaScript, HTML, CSS
 
 Backend
 
-Django, Django REST Framework
+  Django, Django REST Framework
 
-SQLite, MySQL, PostgreSQL
+  SQLite, MySQL, PostgreSQL
 
-Authentication (Token/JWT), API Pagination, Filtering
+  Authentication (Token/JWT), API Pagination, Filtering
 
 Frontend
 
-JavaScript ES6+, React (basics), Responsive Design
+  JavaScript ES6+, React (basics), Responsive Design
 
 Tools
 
-Git & GitHub
+  Git & GitHub
 
-VS Code
+  VS Code
 
-Postman
+  Postman
 
-Linux/CLI
+  Linux/CLI
 
 Currently exploring: Docker, deployment on Render/PythonAnywhere
 
+---
+
 ###🚀 Projects & Interests
+
 I love building systems like:
 
 📦 Inventory or Order Management APIs
@@ -68,6 +72,7 @@ I love building systems like:
 🗃️ Database-driven apps with clean architecture
 
 More projects coming soon as I build out my portfolio.
+---
 
 
 ### 📬 Contact Me
