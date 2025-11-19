@@ -13,10 +13,14 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 
 ### 👨‍💻 About Me
 
-🎓 ALX Software Engineering Graduate
+🎓 ALX Software Engineering 
+
 💡 Passionate about backend development, APIs, and scalable systems
+
 🌐 Skilled in frontend fundamentals to support full-stack development
+
 🚀 Currently building Django applications and deploying REST APIs
+
 📚 Always learning: system design basics, Django best practices & DevOps fundamentals
 
 ---
