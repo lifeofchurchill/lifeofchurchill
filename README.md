@@ -14,13 +14,9 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 ### 👨‍💻 About Me
 
 🎓 ALX Software Engineering Graduate
-
 💡 Passionate about backend development, APIs, and scalable systems
-
 🌐 Skilled in frontend fundamentals to support full-stack development
-
 🚀 Currently building Django applications and deploying REST APIs
-
 📚 Always learning: system design basics, Django best practices & DevOps fundamentals
 
 ---
@@ -28,42 +24,32 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 ### 🛠️ Technologies & Tools
 
 ### Languages
-
 - Python, JavaScript, HTML, CSS
 
 ### Backend
-
--Django, Django REST Framework
--SQLite, MySQL, PostgreSQL
--Authentication (Token/JWT), API Pagination, Filtering
+- Django, Django REST Framework
+- SQLite, MySQL, PostgreSQL
+- Authentication (Token/JWT), API Pagination, Filtering
 
 ### Frontend
-
--JavaScript ES6+, React (basics), Responsive Design
+- JavaScript ES6+, React (basics), Responsive Design
 
 ### Tools
-
--Git & GitHub
--VS Code
--Postman
--Linux/CLI
+- Git & GitHub
+- VS Code
+- Postman
+- Linux/CLI
 
 currently exploring: Docker, deployment on Render/PythonAnywhere
 
 ---
 
 ### 🚀 Projects & Interests
-
 I love building systems like:
-
 📦 Inventory or Order Management APIs
-
 📝 Blog or Content Management Systems
-
 📊 Analytics dashboards
-
 🔒 Authentication and authorization modules
-
 🗃️ Database-driven apps with clean architecture
 
 **More projects coming soon as I build out my portfolio.**
