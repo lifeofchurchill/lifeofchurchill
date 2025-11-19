@@ -29,35 +29,30 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 
 Languages
 
-  Python, JavaScript, HTML, CSS
+-Python, JavaScript, HTML, CSS
 
-Backend
+### Backend
 
-  Django, Django REST Framework
+-Django, Django REST Framework
+-SQLite, MySQL, PostgreSQL
+-Authentication (Token/JWT), API Pagination, Filtering
 
-  SQLite, MySQL, PostgreSQL
+### Frontend
 
-  Authentication (Token/JWT), API Pagination, Filtering
+-JavaScript ES6+, React (basics), Responsive Design
 
-Frontend
+### Tools
 
-  JavaScript ES6+, React (basics), Responsive Design
+-Git & GitHub
+-VS Code
+-Postman
+-Linux/CLI
 
-Tools
-
-  Git & GitHub
-
-  VS Code
-
-  Postman
-
-  Linux/CLI
-
-Currently exploring: Docker, deployment on Render/PythonAnywhere
+currently exploring: Docker, deployment on Render/PythonAnywhere
 
 ---
 
-###🚀 Projects & Interests
+### 🚀 Projects & Interests
 
 I love building systems like:
 
@@ -71,7 +66,8 @@ I love building systems like:
 
 🗃️ Database-driven apps with clean architecture
 
-More projects coming soon as I build out my portfolio.
+**More projects coming soon as I build out my portfolio.**
+
 ---
 
 
