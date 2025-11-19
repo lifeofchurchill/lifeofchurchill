@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-I’m a Junior Software Developer with strong interest in backend engineering and real-world problem-solving. I recently completed the ALX Software Engineering Program, where I gained hands-on experience building applications from the ground up — from frontend interfaces to backend logic, APIs, and databases.<br>I enjoy turning ideas into working systems, learning new technologies, and constantly improving my craft.
+I’m a Junior Software Developer with strong interest in backend engineering and real-world problem-solving. I recently completed the ALX Software Engineering Program, where I gained hands-on experience building applications from the ground up from frontend interfaces to backend logic, APIs, and databases.<br>I enjoy turning ideas into working systems, learning new technologies, and constantly improving my craft.
 </p>
 
 ---
