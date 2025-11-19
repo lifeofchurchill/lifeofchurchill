@@ -27,9 +27,9 @@ I enjoy turning ideas into working systems, learning new technologies, and const
 
 ### 🛠️ Technologies & Tools
 
-Languages
+### Languages
 
--Python, JavaScript, HTML, CSS
+- Python, JavaScript, HTML, CSS
 
 ### Backend
 
