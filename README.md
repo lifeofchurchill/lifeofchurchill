@@ -49,12 +49,16 @@ currently exploring: Docker, deployment on Render/PythonAnywhere
 ### 🚀 Projects & Interests
 I love building systems like:
 📦 Inventory or Order Management APIs
+
 📝 Blog or Content Management Systems
+
 📊 Analytics dashboards
+
 🔒 Authentication and authorization modules
+
 🗃️ Database-driven apps with clean architecture
 
-**More projects coming soon as I build out my portfolio.**
+<b>More projects coming soon as I build out my portfolio.</b>
 
 ---
 
