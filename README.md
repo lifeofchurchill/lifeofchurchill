@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Churchill</h1>
 
-<h3 align="center">💻 Junior Software Engineer | Backend Development | Cybersecurity | Python • Django • JavaScript • React</h3>
+<h3 align="center">💻 Software Engineer | Backend Development | Cybersecurity | Python • Django • JavaScript • React</h3>
 
 ---
 
